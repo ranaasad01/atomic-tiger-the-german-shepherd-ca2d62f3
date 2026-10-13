@@ -1,0 +1,236 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "photos": "Fotos",
+    "jokes": "Chistes",
+    "facts": "Datos Divertidos",
+    "cta": "¡Cuéntame un Chiste! 🐾"
+  },
+  "footer": {
+    "tagline": "El mejor chico de internet 🐾",
+    "madeWith": "Hecho con",
+    "forTiger": "para Tiger",
+    "copyright": "Sitio web de Tiger. Todos los mimos reservados."
+  },
+  "hero": {
+    "heading": "Conoce a Tiger",
+    "body": "¡Soy un Pastor Alemán grande y esponjudo y este es MI sitio web! Me encanta correr, jugar a traer cosas y ser el mejor chico siempre. ¡Bienvenido a mi rincón de internet! 🐕",
+    "cta": "¡Conoce a Tiger!",
+    "badge": "Pastor Alemán • Mejor Chico",
+    "subheading": "El mejor chico de internet. Leal, esponjudo y absolutamente convencido de que cada visitante está aquí para acariciarlo.",
+    "cta_photos": "Ver Fotos 📸",
+    "cta_jokes": "Cuéntame un Chiste 😂",
+    "floating_badge": "🐾 Mejor Chico"
+  },
+  "bio": {
+    "heading": "Más que un perro. Toda una personalidad.",
+    "body": "¡Me llamo Tiger y soy un Pastor Alemán! Tengo un hermoso pelaje dorado y negro, orejas puntiagudas grandes y la cola más meneadora que hayas visto. Me encanta pasear, perseguir ardillas (nunca las atrapo 😅) y acurrucarme en el sofá. Mi golosina favorita es la mantequilla de cacahuete y mi juego favorito es el tira y afloja. ¡Soy el mejor perro del mundo entero — mi dueño lo dijo!",
+    "label": "Acerca de Tiger",
+    "body1": "Tiger es un Pastor Alemán de 3 años con el corazón de un león y el apetito de un oso pequeño. Se unió a la familia como una pequeña bolita esponjuda y desde entonces se ha convertido en el miembro más dramático, adorable y ocasionalmente caótico del hogar.",
+    "body2": "Sus pasatiempos incluyen: perseguir pelotas de tenis (nunca devolverlas), ladrar al cartero, robar calcetines y realizar zoomies de calidad de premio a las 6 AM. También es un experto en la técnica de ojos de cachorro y nunca la ha usado para el mal.",
+    "items": [
+      {
+        "label": "Breed",
+        "value": "German Shepherd 🐕"
+      },
+      {
+        "label": "Favourite game",
+        "value": "Fetch and tug-of-war!"
+      },
+      {
+        "label": "Favourite snack",
+        "value": "Peanut butter treats 🥜"
+      },
+      {
+        "label": "Superpower",
+        "value": "Hearing the treat bag from three rooms away 👂"
+      },
+      {
+        "label": "Best skill",
+        "value": "Giving the best cuddles ever 🤗"
+      }
+    ],
+    "tags": [
+      "Tennis Balls",
+      "Belly Rubs",
+      "Car Rides",
+      "Treats",
+      "Zoomies",
+      "Cuddles"
+    ],
+    "stats": [
+      {
+        "label": "Age",
+        "value": "3 yrs"
+      },
+      {
+        "label": "Weight",
+        "value": "75 lbs"
+      },
+      {
+        "label": "Breed",
+        "value": "GSD"
+      },
+      {
+        "label": "Mood",
+        "value": "Happy"
+      }
+    ]
+  },
+  "photoGallery": {
+    "heading": "Álbum de Fotos de Tiger 📸",
+    "body": "¡Aquí están algunas de mis fotos favoritas! ¿No soy guapo? 😄",
+    "items": [
+      {
+        "caption": "Tiger on his morning patrol 🐾"
+      },
+      {
+        "caption": "King of the backyard 👑"
+      },
+      {
+        "caption": "Nap time — do not disturb 😴"
+      },
+      {
+        "caption": "Ready for adventure! 🌲"
+      }
+    ]
+  },
+  "jokeButton": {
+    "heading": "¿Quieres Escuchar un Chiste de Perros? 😂",
+    "body": "¡Presiona el botón y te contaré un chiste muy divertido! Conozco muchos. ¡Prepárate para reír! 🐶",
+    "cta": "¡Cuéntame un chiste! 🐾",
+    "items": [
+      {
+        "setup": "Why did the dog sit in the shade?",
+        "punchline": "Because he didn't want to be a hot dog! 🌭"
+      },
+      {
+        "setup": "What do you call a dog magician?",
+        "punchline": "A labra-cadabra-dor! 🪄"
+      },
+      {
+        "setup": "Why do dogs run in circles?",
+        "punchline": "Because it's too hard to run in squares! 🔄"
+      },
+      {
+        "setup": "What kind of dog does Dracula have?",
+        "punchline": "A bloodhound! 🧛"
+      },
+      {
+        "setup": "Why did the German Shepherd become a police dog?",
+        "punchline": "Because he was the best at sniffing out the competition! 🐕‍🦺"
+      }
+    ]
+  },
+  "funFacts": {
+    "heading": "Cosas que deberías saber sobre Tiger",
+    "body": "¿Sabías que los Pastores Alemanes son uno de los perros más inteligentes? ¡Aquí hay algunas cosas súper geniales sobre mi raza!",
+    "label": "Datos Divertidos",
+    "subheading": "Es un individuo complejo con muchas capas. La mayoría de esas capas son pelaje.",
+    "items": [
+      {
+        "id": "1",
+        "title": "Natural Protector",
+        "body": "German Shepherds are one of the most loyal and protective breeds in the world. Tiger takes his guard-dog duties very seriously — especially when squirrels are involved."
+      },
+      {
+        "id": "2",
+        "title": "Lightning Fast",
+        "body": "Tiger can reach speeds of up to 30 mph when chasing a tennis ball. He has never once caught a squirrel, but not for lack of trying."
+      },
+      {
+        "id": "3",
+        "title": "Incredibly Smart",
+        "body": "German Shepherds rank 3rd in dog intelligence. Tiger learned sit, stay, and shake in a single afternoon — then immediately forgot stay."
+      },
+      {
+        "id": "4",
+        "title": "Pure Love",
+        "body": "Despite his tough exterior, Tiger is a total softie. He insists on sleeping at the foot of the bed and gives the best morning zoomies."
+      },
+      {
+        "id": "5",
+        "title": "Champion Napper",
+        "body": "Tiger sleeps an average of 12 hours a day. He has perfected the art of the dramatic flop and the slow-motion couch takeover."
+      },
+      {
+        "id": "6",
+        "title": "Natural Model",
+        "body": "Tiger has an uncanny ability to look directly at the camera at exactly the right moment. His best side? All of them."
+      }
+    ]
+  },
+  "gallery": {
+    "label": "Galería de Fotos",
+    "heading": "Tiger a través del lente 📸",
+    "subheading": "Cada foto cuenta una historia. La mayoría de ellas involucran golosinas.",
+    "photos": [
+      {
+        "id": "1",
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b89e5f17951843e2ab7963bb72a00b84.jpg",
+        "alt": "German Shepherd",
+        "caption": "Tiger on his morning patrol 🐾"
+      },
+      {
+        "id": "2",
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b89e5f17951843e2ab7963bb72a00b84.jpg",
+        "alt": "German Shepherd",
+        "caption": "King of the backyard 👑"
+      },
+      {
+        "id": "3",
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b89e5f17951843e2ab7963bb72a00b84.jpg",
+        "alt": "German Shepherd",
+        "caption": "Nap time — do not disturb 😴"
+      },
+      {
+        "id": "4",
+        "src": "https://titoaistorageaccount.blob.core.windows.net/titoai-storage/site-images/b89e5f17951843e2ab7963bb72a00b84.jpg",
+        "alt": "German Shepherd",
+        "caption": "Ready for adventure! 🌲"
+      }
+    ]
+  },
+  "jokes": {
+    "label": "Rincón de Chistes",
+    "heading": "La hora de comedia de Tiger 😂",
+    "subheading": "Tiger puede que no pueda hablar, pero tiene un excelente gusto en chistes de perros. Presiona el botón. Sabes que quieres.",
+    "reveal_label": "Revelar la punchline...",
+    "next_btn": "Siguiente Chiste",
+    "show_btn": "Mostrar Remate 🥁",
+    "counter": "Chiste {current} de {total}",
+    "items": [
+      {
+        "id": "1",
+        "setup": "Why did the dog sit in the shade?",
+        "punchline": "Because he didn't want to be a hot dog! 🌭"
+      },
+      {
+        "id": "2",
+        "setup": "What do you call a dog magician?",
+        "punchline": "A labra-cadabra-dor! 🪄"
+      },
+      {
+        "id": "3",
+        "setup": "Why do dogs run in circles?",
+        "punchline": "Because it's too hard to run in squares! 🔄"
+      },
+      {
+        "id": "4",
+        "setup": "What kind of dog does Dracula have?",
+        "punchline": "A bloodhound! 🧛"
+      },
+      {
+        "id": "5",
+        "setup": "Why did the German Shepherd become a police dog?",
+        "punchline": "Because he was the best at sniffing out the competition! 🐕‍🦺"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Tiger te saluda. Y también quiere una golosina.",
+    "body": "Gracias por visitar la esquina de Tiger en internet. Él te daría la mano, pero está durmiendo en este momento. Por favor, vuelve más tarde.",
+    "btn": "Ver Más Fotos 📸"
+  }
+}
